@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 public final class Login extends javax.swing.JFrame {
 
     /**
-     * Creates new form Login
+     * Creates new form Logi
      */
     Connection con;
     PreparedStatement pst;
